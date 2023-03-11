@@ -37,7 +37,6 @@ const Navbar = () => {
                     <li className='p-3 border-b border-b-gray-700'><Link href='/Gallery'>Gallery</Link></li>
                     <li className='p-3 border-b border-b-gray-700'><Link href='/About'>About</Link></li>
                     <li className='p-3 border-b border-b-gray-700'><Link href='/Contact'>Contact</Link></li>
-                    <li className='p-3'>Dummy</li>
                 </ul>
             </div>
         </div>
